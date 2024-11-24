@@ -1,10 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
-using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 using UnityEngine;
-using static UnityEditor.Experimental.GraphView.GraphView;
-using static UnityEngine.GraphicsBuffer;
+//using static UnityEditor.Experimental.GraphView.GraphView;
+//using static UnityEngine.GraphicsBuffer;
 
 public class Enemy : MonoBehaviour
 {
